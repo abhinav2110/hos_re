@@ -7,3 +7,5 @@ pandas==1.2.3
 joblib==0.16.0
 protobuf==3.20.*
 streamlit_option_menu==0.3.2
+streamlit_authenticator==0.3.2
+streamlit_lottie==0.0.5
